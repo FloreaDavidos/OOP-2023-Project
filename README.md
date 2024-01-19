@@ -11,17 +11,29 @@ Goal:
 The goal is to develop a versatile process builder that enables users to seamlessly construct linear flows using a variety of predefined steps.
 
 Types of Steps:
+
 Title Step: Takes a title and subtitle as input.
+
 Text Step: Requires a title and copy (text).
+
 Text Input Step: Expects a description of the expected input.
+
 Number Input Step: Expects a description for the expected numeric input.
+
 Calculus Step: Performs mathematical operations on previous number input steps.
+
 Display Step: Displays content from previous text or CSV input steps.
+
 Text File Input Step: Allows the addition of .txt files.
+
 CSV File Input Step: Allows the addition of .csv files.
+
 Output Step: Generates a text file as output, customizable with information from previous steps.
+
 End Step: Marks the end of a flow.
+
 User Stories:
+
 Build flows using predefined steps.
 View available steps and their descriptions.
 Create new flows easily.
@@ -35,17 +47,6 @@ Generate analytics for each flow.
 Handle errors with retry or move to the next step.
 Add a name and timestamp for each flow.
 Run, edit, or delete created flows.
-Requirements:
-Project deadline: January 12th, 23:59.
-Github repository link submitted on Moodle.
-Access granted to danielcdi (chisdanielioan@gmail.com).
-Repository contents:
-Codebase
-90-second demo video showcasing flow creation, running, and analytics.
-Testing matrix with at least 20 tests.
-Coverage of OOP concepts: Classes, objects, constructors, destructors, and encapsulation.
-Project Status:
-Completed on January 12th, 2024.
 Inheritance
 Polymorphism
 Abstractization
