@@ -1,6 +1,5 @@
 ﻿# OOP-2023-Project
-OOP 2023 Project
-Vision
+#Vision
 Our vision is to create an app that allows users to create custom flows for processes they use in their work.
 Background
 As companies go through the digitalization process, they need to move their process to apps that can help them automate and optimize their work. 
